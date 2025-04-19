@@ -1,0 +1,47 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 90vw;
+}
+
+.container embed{
+
+    height: 90%;
+    aspect-ratio: auto;
+}
+
+.thanks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    width: 90vw;
+}
+
+.navigator{
+    display: flex;
+    
+    justify-content: flex-end;
+    gap: 3rem;    
+    min-height: 5vh;
+    background-color: #ffcb85;
+    border-radius: 1rem;
+    align-items: center;
+}
+body{
+    background-color: #fdf5c9;
+    font-family: "Cherry Cream Soda", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    color: #ffc5d9;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+
+  

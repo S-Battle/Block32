@@ -1,0 +1,15 @@
+{
+  "name": "block32",
+  "version": "1.0.0",
+  "description": "block32",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth B",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.14.1"
+  }
+}
